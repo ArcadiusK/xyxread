@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/action_refresh" />
+</menu>
+<!-- From: file:/Users/a/Nic/Courses/Udacity-Android-Nanodeg/P5%20Make%20Material/xyzreader%20copy/XYZReader/src/main/res/menu/main.xml -->
