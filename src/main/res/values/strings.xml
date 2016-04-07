@@ -10,6 +10,7 @@
     <string name="macro_view">Macro View</string>
     <string name="counter">Counter</string>
     <string name="up">Up</string>
+    <string name="down">Down</string>
     <string name="enumerator">Enumerator</string>
 
 </resources>
